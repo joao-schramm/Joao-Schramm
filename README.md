@@ -3,22 +3,6 @@
 💻 **Programação | Desenvolvimento Web**
 
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Joao-Schramm&show_icons=true&theme=tokyonight&include_all_commits=true"
-    alt="Estatísticas do GitHub de João Schramm"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Schramm&layout=compact&theme=tokyonight&langs_count=6"
-    alt="Linguagens mais utilizadas por João Schramm"
-  />
-</p>
-
 Seja bem-vindo ao meu perfil!
 
 Sou um desenvolvedor interessado em programação e desenvolvimento web. Utilizo este espaço para documentar meus estudos, compartilhar projetos, registrar pesquisas e experimentar novas soluções tecnológicas.
