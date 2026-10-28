@@ -12,8 +12,6 @@ Meu objetivo é construir uma base técnica sólida, desenvolver projetos práti
 
 ### 🚀 Tecnologias e ferramentas
 
-Tecnologias com as quais trabalho ou estudo:
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -29,7 +27,7 @@ Tecnologias com as quais trabalho ou estudo:
 - **Projetos:** aplicações e experimentos desenvolvidos durante meus estudos.
 - **Estudos:** exercícios, anotações e implementações práticas.
 - **Pesquisas:** explorações técnicas e investigações sobre tecnologias.
-- **Experimentos:** testes de conceitos, ferramentas e diferentes abordagens de desenvolvimento.
+- **Experimentos:** testes de conceitos, ferramentas e abordagens de desenvolvimento.
 
 ---
 
@@ -43,15 +41,36 @@ Tecnologias com as quais trabalho ou estudo:
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Stats
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Joao-Schramm&color=0e75b6&style=flat)
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Joao-Schramm&show_icons=true&include_all_commits=true&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&bg_color=282a36&border_color=858899&ring_color=ff79c6"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Schramm&layout=compact&langs_count=6&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&border_color=858899"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
 
 ---
 
 ### 📫 Contato
 
-GitHub: [@Joao-Schramm](https://github.com/Joao-Schramm)
+<p>
+  <a href="mailto:joao.g.schramm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://instagram.com/joao.g.schramm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Joao-Schramm">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
